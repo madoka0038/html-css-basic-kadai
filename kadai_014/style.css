@@ -1,0 +1,30 @@
+body {
+font-family: "Arial","Meiryo",sans-serif;
+font-size: 20px;
+text-align: center;
+}
+
+h1{
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 2em;
+    letter-spacing: 1.2em;
+}
+.myprofile::first-letter { 
+color: skyblue;
+}
+.myprofile{
+    text-shadow: 3px 4px 5px #60538c;
+    border-bottom: 3px solid rgb(115,115,114);
+}
+span{
+    color: rgb(255,192,203)
+}
+.text-pink{
+    color: pink;
+}
+.text-skyblue{
+    color: skyblue;
+}
+#basic p {
+    font-weight:bold
+}
