@@ -17,7 +17,7 @@ color: skyblue;
     border-bottom: 3px solid rgb(115,115,114);
 }
 span{
-    color: rgb(255,192,203)
+    color: rgb(255,192,203);
 }
 .text-pink{
     color: pink;
@@ -26,5 +26,5 @@ span{
     color: skyblue;
 }
 #basic p {
-    font-weight:bold
+    font-weight:bold;
 }
